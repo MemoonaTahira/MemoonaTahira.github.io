@@ -41,9 +41,7 @@
     }
   </style>
 </head>
-<body>
-  <h1>Custom Google Form with Restrictions</h1>
-  
+<body>  
   <!-- Embed Google Form Here -->
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdJpLvduIWq9x7CET0EphXEb7aD5_rOQ4wKOQFLPEblLcA8tQ/viewform?embedded=true" width="640" height="17687" frameborder="0" marginheight="0" marginwidth="0">
 
